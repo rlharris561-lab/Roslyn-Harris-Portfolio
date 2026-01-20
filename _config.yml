@@ -124,7 +124,7 @@ author:
       # url: "mailto:rlharris561@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      # url: "https://tri-aiagency.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -133,10 +133,13 @@ author:
       # url: "https://facebook.com/roslyn.neal561"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      # url: "https://rlharris561-lab.github.io/Roslyn-Harris-Portfolio/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      # url: "https://linkedin.com/in/roslynharris"
 
 # Site Footer
 footer:
